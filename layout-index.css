@@ -30,8 +30,13 @@ body {
 
 #About-me-lay {
     margin: 0px;
+    background-color: grey;
     border-radius: 5px;
-    border: 2px solid grey;
+    border-color: grey;
+}
+
+#Joe-pic {
+    max-width: 100%;
 }
 
 #Experience-flex {
