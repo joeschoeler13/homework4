@@ -29,3 +29,14 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+#About-me-flex {
+    display: flex;
+    justify-content: center;
+}
+
+#About-me-lay {
+    margin: 0px;
+    border-radius: 5px;
+    border: 2px solid grey;
+}
