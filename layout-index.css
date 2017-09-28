@@ -14,15 +14,7 @@ body {
     background-size: 150%;
     background-repeat: no-repeat;
     color: white;
-    text-shadow: white 25.0em 25.0em 25.0em;
-}
-
-#container-cities {
-    margin: 0px;
-    border-radius: 5px;
-    background-color: grey;
-    display: flex;
-    justify-content: space-between;
+    text-shadow: white 50.0em 50.0em 50.0em;
 }
 
 #row-navbar {
@@ -37,6 +29,27 @@ body {
 }
 
 #About-me-lay {
+    margin: 0px;
+    border-radius: 5px;
+    border: 2px solid grey;
+}
+
+#Experience-flex {
+    display: flex;
+    justify-content: center;   
+}
+
+#Experience-lay {
+    margin: 0px;
+}
+
+#School-lay {
+    margin: 0px;
+    border-radius: 5px;
+    border: 2px solid grey;
+}
+
+#Work-lay {
     margin: 0px;
     border-radius: 5px;
     border: 2px solid grey;
