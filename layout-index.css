@@ -4,16 +4,6 @@ body {
     margin: 25px
 }
 
-#FFM {
-    background-color: grey;
-}
-#VIC {
-    background-color: grey;
-}
-#SLF {
-    background-color: grey;
-}
-
 .jumbotron {
     margin-bottom: 0px;
     background-position-x: -25px;
