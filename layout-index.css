@@ -37,6 +37,7 @@ body {
 
 #Joe-pic {
     max-width: 100%;
+    border-radius: 5px;
 }
 
 #Experience-flex {
@@ -46,16 +47,11 @@ body {
 
 #Experience-lay {
     margin: 0px;
-}
-
-#School-lay {
-    margin: 0px;
     border-radius: 5px;
     border: 2px solid grey;
 }
 
-#Work-lay {
-    margin: 0px;
-    border-radius: 5px;
-    border: 2px solid grey;
+#Work-School {
+    display: flex;
+    justify-content: space-between;
 }
