@@ -16,10 +16,11 @@ body {
 
 .jumbotron {
     margin-bottom: 0px;
-    background-position: 0% 25%;
-    background-image: url(/Users/neuernutzer/Desktop/utw/homework4/jumbo-pic.jpeg);
+    background-position-x: -25px;
+    background-position-y: 0px;
+    background-image: url(/Users/neuernutzer/Desktop/utw/homework4/jumbo-pic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    text-shadow: black 0.6em 0.6em 0.6em;
+    text-shadow: white 10.0em 10.0em 10.0em;
 }
