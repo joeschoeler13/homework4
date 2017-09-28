@@ -5,12 +5,27 @@ body {
 }
 
 .jumbotron {
-    margin-bottom: 0px;
-    background-position-x: -25px;
-    background-position-y: 0px;
+    margin: 0px;
+    border-radius: 5px;
+    background-position-x: -50px;
+    background-position-y: -75px;
     background-image: url(/Users/neuernutzer/Desktop/utw/homework4/jumbo-pic.jpg);
-    background-size: cover;
+    background-size: 150%;
     background-repeat: no-repeat;
     color: white;
     text-shadow: white 25.0em 25.0em 25.0em;
+}
+
+#container-cities {
+    margin: 0px;
+    border-radius: 5px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+#row-navbar {
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
 }
