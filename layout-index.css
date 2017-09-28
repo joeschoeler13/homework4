@@ -55,3 +55,15 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+#Skills-flex {
+    display: flex;
+    justify-content: center;
+}
+
+#Skills-lay {
+    margin: 0px;
+    background-color: grey;
+    border-radius: 5px;
+    border-color: grey;
+}
