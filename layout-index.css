@@ -1,7 +1,8 @@
 @import url(https://bootswatch.com/slate/bootstrap.min.css);
 
 body {
-    margin: 25px
+    margin: 25px;
+    color: white;
 }
 
 .jumbotron {
