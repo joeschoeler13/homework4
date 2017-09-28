@@ -5,13 +5,13 @@ body {
 }
 
 #FFM {
-    background-color: grey
+    background-color: grey;
 }
 #VIC {
-    background-color: grey
+    background-color: grey;
 }
 #SLF {
-    background-color: grey
+    background-color: grey;
 }
 
 .jumbotron {
@@ -22,5 +22,5 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    text-shadow: white 10.0em 10.0em 10.0em;
+    text-shadow: white 25.0em 25.0em 25.0em;
 }
